@@ -1,4 +1,4 @@
-## Asif Shahriar | Full Stack Developer  [![HitCount](http://hits.dwyl.com/Sayan3sarkar/Sayan3sarkar.svg)](http://hits.dwyl.com/Sayan3sarkar/Sayan3sarkar)
+## Asif Shahriar | Full Stack Developer  [![HitCount](http://hits.dwyl.com/asifo1/asifo1.svg)](http://hits.dwyl.com/asifo1/asifo1)
 
 
 `🎓 Daffodil International University`<br/>
