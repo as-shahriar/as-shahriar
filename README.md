@@ -1,4 +1,4 @@
-## Asif Shahriar | Full Stack Developer [![HitCount](http://hits.dwyl.com/asifo1/asifo1.svg)](http://hits.dwyl.com/asifo1/asifo1)
+## Asif Shahriar | Full Stack Developer  [![HitCount](http://hits.dwyl.com/asifo1/asifo1.svg)](http://hits.dwyl.com/asifo1/asifo1)
 
 `🎓 Daffodil International University`<br/>
 `📧 asif.qubit@gmail.com`<br/>
