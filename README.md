@@ -1,7 +1,7 @@
 ## Asif Shahriar | Full Stack Developer [![HitCount](http://hits.dwyl.com/asifo1/asifo1.svg)](http://hits.dwyl.com/asifo1/asifo1)
 
-`🎓 Daffodil International University`
-`📧 asif.qubit@gmail.com`
+`🎓 Daffodil International University`<br/>
+`📧 asif.qubit@gmail.com`<br/>
 `🏠 Dhaka, Bangladesh`
 
 <a href="https://facebook.com/asif.8617" target="_blank"><img src="https://img.icons8.com/plasticine/2x/facebook-new.png" width="30" height="30" alt="FB"/></a> <a href="https://linkedin.com/in/asifdiu" target="_blank"><img src="https://pluspng.com/img-png/linkedin-png-linkedin-social-icon-png-image-2034-512.png" width="30" height="30" alt="in"/></a> <a href="https://www.hackerrank.com/asifo1" target="_blank"><img src="https://img.icons8.com/plasticine/2x/facebook-new.png" width="30" height="30" alt="HackerRank"/></a> <a href="https://www.coursera.org/user/ee807a21f2d71213d4e9cbf6c0ce1c49" target="_blank"><img src="https://pluspng.com/img-png/linkedin-png-linkedin-social-icon-png-image-2034-512.png" width="30" height="30" alt="coursera"/></a>
