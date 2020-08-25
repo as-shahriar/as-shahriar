@@ -28,6 +28,8 @@ I am an experienced Full Stack Web Developer. Equipped with a diverse and promis
 </p>
 
 <div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Asif's github stats](https://github-readme-stats.vercel.app/api/?username=asifo1&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) 
+![Asif's github stats](https://github-readme-stats.vercel.app/api/?username=asifo1&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
+
 </div>
