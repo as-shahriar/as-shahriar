@@ -17,7 +17,7 @@ I am an experienced Full Stack Web Developer. Equipped with a diverse and promis
   <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
   <img src="https://img.shields.io/badge/jQuery-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-00758F" /> 
   <img src="https://img.shields.io/badge/ReactJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-01d9ff" /> 
-  <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F29111" /> 
+  <img src="https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-F29111" /> 
   <img src="https://img.shields.io/badge/PostgreSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0064a5" /> 
   <img src="https://img.shields.io/badge/BootStrap4-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-563d7c" /> 
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-306998" /> 
