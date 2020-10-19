@@ -3,7 +3,6 @@
 `🎓 Daffodil International University`<br/>
 `📧 asif.qubit@gmail.com`<br/>
 `🏠 Dhaka, Bangladesh`<br/>
-🌐 [Website](https://asifo1.github.io)
 
 <a href="https://facebook.com/asif.8617" target="_blank"><img src="https://raw.githubusercontent.com/asifo1/asifo1/master/icons/fb.png" width="33" height="30" alt="FB"/></a> <a href="https://linkedin.com/in/asifdiu" target="_blank"><img src="https://raw.githubusercontent.com/asifo1/asifo1/master/icons/in.png" width="33" height="30" alt="in"/></a> <a href="https://www.hackerrank.com/asifo1" target="_blank"><img src="https://raw.githubusercontent.com/asifo1/asifo1/master/icons/hackerrank.png" width="33" height="30" alt="HackerRank"/></a> <a href="https://www.coursera.org/user/ee807a21f2d71213d4e9cbf6c0ce1c49" target="_blank"><img src="https://raw.githubusercontent.com/asifo1/asifo1/master/icons/coursera.png" width="34" height="30" alt="coursera"/></a> <a href="https://drive.google.com/file/d/1R_HL4xzsBlgH3PHY9yB973mfgQU1mVMJ/view?usp=sharing" target="_blank"><img src="https://raw.githubusercontent.com/asifo1/asifo1/master/icons/download.png" width="30" height="30" alt="CV"/></a>
 
