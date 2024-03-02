@@ -8,7 +8,7 @@
 
 <a href="https://facebook.com/asif.8617" target="_blank"><img src="https://raw.githubusercontent.com/as-shahriar/as-shahriar/master/icons/fb.png" width="33" height="30" alt="FB"/></a> <a href="https://linkedin.com/in/asif-se" target="_blank"><img src="https://raw.githubusercontent.com/as-shahriar/as-shahriar/master/icons/in.png" width="33" height="30" alt="in"/></a> <a href="https://www.hackerrank.com/profile/asif_shahriar" target="_blank"><img src="https://raw.githubusercontent.com/as-shahriar/as-shahriar/master/icons/hackerrank.png" width="33" height="30" alt="HackerRank"/></a> <a href="https://www.coursera.org/user/ee807a21f2d71213d4e9cbf6c0ce1c49" target="_blank"><img src="https://raw.githubusercontent.com/as-shahriar/as-shahriar/master/icons/coursera.png" width="34" height="30" alt="coursera"/></a> 
 
-I'm a dedicated software engineer, crafting solutions with precision. Passionate about innovation and problem-solving, I thrive in coding challenges. Committed to continuous learning, I evolve with technology's pace.
+I'm a dedicated software engineer, crafting solutions with precision. Passionate about innovation and problem-solving, I thrive in coding challenges. Committed to continuous learning, I evolve with technology's pace. <a href="https://as-shahriar.github.io" target="_blank">See more</a> 
 
 ### Skills
 
